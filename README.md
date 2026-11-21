@@ -6,7 +6,6 @@ Projet encadré S9 (sujet I8), filière IA & Data, EMSI, 2026/2027.
 Encadrante : Pr. Lalla Amina Charaf.
 Équipe : Yassir, Mustapha.
 
-> Statut : cadrage validé en séance 2. Le code arrive à partir de la séance 3.
 
 ## Le problème
 
@@ -66,7 +65,6 @@ docker compose up
 ## Règles du projet
 
 - Données fictives uniquement : aucune vraie facture, aucun vrai IBAN.
-- Aucune clé d'API ni mot de passe dans le dépôt : utiliser un fichier `.env` local (jamais commité).
 - Toute attaque reste dans notre environnement de test, jamais sur un service réel ou un tiers.
 - L'action de paiement est simulée et n'a aucun effet réel.
 
